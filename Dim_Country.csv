@@ -1,38 +1,38 @@
 ﻿Country Key (PK);Country Name;Developed/Undeveloped;Country Area
-1;Austria;Muito Elevado;83 879
-2;Belgium;Muito Elevado;30 689
-3;Bosnia and Herzegovina;Baixo;51 197
-4;Bulgaria;Médio baixo;110 994
-5;Croatia;Médio;56 594
-6;Cyprus;Médio;9 251
-7;Czechia;Elevado;78 866
+1;Austria;Muito Elevado;83879
+2;Belgium;Muito Elevado;30689
+3;Bosnia and Herzegovina;Baixo;51197
+4;Bulgaria;Médio baixo;110994
+5;Croatia;Médio;56594
+6;Cyprus;Médio;9251
+7;Czechia;Elevado;78866
 8;Denmark;Muito Elevado;42933
-9;Estonia;Elevado;45 339
-10;Finland;Muito Elevado;338 440
-11;France;Elevado;643 801
-12;Germany;Muito Elevado;357 386
+9;Estonia;Elevado;45339
+10;Finland;Muito Elevado;338440
+11;France;Elevado;643801
+12;Germany;Muito Elevado;357386
 13;Greece;Médio;131957
-14;Hungary;Médio;93030,00
-15;Iceland;Muito Elevado;103 000
-16;Ireland;Muito Elevado;70 273
-17;Italy;Elevado;301 340
-18;Latvia;Médio;64 589
-19;Liechtenstein;Muito Elevado;160,00
-20;Lithuania;Médio;65 300
-21;Luxembourg;Muito Elevado;2 586
-22;Malta;Baixo;316,00
-23;Montenegro;Baixo;13 812
-24;Netherlands;Médio;41 543
-25;North Macedonia;Médio;25 713 
-26;Norway;Muito Elevado;385 207
-27;Poland;Médio;312 679
-28;Portugal;Médio;92 212
-29;Romania;Médio;238 397
-30;Serbia;Baixo;88 361
-31;Slovakia;Médio;49 035
-32;Slovenia;Médio;20 271
-33;Spain;Elevado;505 990
-34;Sweden;Elevado;450 295
-35;Switzerland;Muito Elevado;41 285
-36;Turkey;Baixo;783 562
-37;United Kingdom;Muito Elevado;242 495
+14;Hungary;Médio;93030
+15;Iceland;Muito Elevado;103000
+16;Ireland;Muito Elevado;70273
+17;Italy;Elevado;301340
+18;Latvia;Médio;64589
+19;Liechtenstein;Muito Elevado;160
+20;Lithuania;Médio;65300
+21;Luxembourg;Muito Elevado;2586
+22;Malta;Baixo;316
+23;Montenegro;Baixo;13812
+24;Netherlands;Médio;41543
+25;North Macedonia;Médio;25713
+26;Norway;Muito Elevado;385207
+27;Poland;Médio;312679
+28;Portugal;Médio;92212
+29;Romania;Médio;238397
+30;Serbia;Baixo;88361
+31;Slovakia;Médio;49035
+32;Slovenia;Médio;20271
+33;Spain;Elevado;505990
+34;Sweden;Elevado;450295
+35;Switzerland;Muito Elevado;41285
+36;Turkey;Baixo;783562
+37;United Kingdom;Muito Elevado;242495
